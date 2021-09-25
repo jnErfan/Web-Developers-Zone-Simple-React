@@ -1,16 +1,6 @@
 [
-    {
+   {
       "id": "101",
-      "name": "Abdallah Daiyan",
-      "skills": "ReactJS, JavaScript, MongoDB, HTML, CSS",
-      "graduate": "Black Belt Web Developer",
-      "workHistory": "Tilleli Inc (New Jersey, USA)",
-      "salary": "25000",
-      "email": "daiyanabdullah@gmail.com",
-      "img": "http://www.abdallahdaiyan.xyz/static/media/daiyan.1e20918a.jpg"
-    },
-    {
-      "id": "102",
       "name": "Abid Hossain",
       "skills": "ReactJS, JavaScript, Sass, MongoDB, HTML, CSS",
       "graduate": "Black Belt Web Developer",
@@ -20,16 +10,17 @@
       "img": "https://abid-hossain.web.app/static/media/abid4.bfe6365c.jpg"
     },
     {
-      "id": "103",
+      "id": "102",
       "name": "Afroza Akter Ruma",
       "skills": "ReactJS, JavaScript, MongoDB, HTML, CSS",
+      "graduate": "Black Belt Web Developer",
       "workHistory": "Ready To Hired",
       "salary": "15000",
       "email": "afrozaaktarroma@gmail.com",
       "img": "https://my-portfolio-55f71.web.app/static/media/ruma.105b54e4.png"
     },
     {
-      "id": "104",
+      "id": "103",
       "name": "AMINA ANIKA",
       "skills": "ReactJS, JavaScript, MongoDB, HTML, CSS",
       "graduate": "Black Belt Web Developer",
@@ -37,6 +28,16 @@
       "salary": "16000",
       "email": "anikaa137@gmail.com",
       "img": "https://portfolio-7dab2.web.app/static/media/about.c26f24ae.png"
+    },
+    {
+      "id": "104",
+      "name": "Abdallah Daiyan",
+      "skills": "ReactJS, JavaScript, MongoDB, HTML, CSS",
+      "graduate": "Black Belt Web Developer",
+      "workHistory": "Tilleli Inc (New Jersey, USA)",
+      "salary": "25000",
+      "email": "daiyanabdullah@gmail.com",
+      "img": "http://www.abdallahdaiyan.xyz/static/media/daiyan.1e20918a.jpg"
     },
     {
       "id": "105",
@@ -50,7 +51,7 @@
     },
     {
       "id": "106",
-      "name": "Badhan Chandra Barman",
+      "name": "Badhan Barman",
       "skills": "ReactJS, JavaScript, MongoDB, HTML, CSS",
       "graduate": "Black Belt Web Developer",
       "workHistory": "Ready To Hired",
@@ -61,7 +62,7 @@
     {
       "id": "107",
       "name": "GAZI SHIFAT REZA",
-      "skills": "ReactJS, Sass, Express.js, JavaScript, MongoDB, HTML, CSS",
+      "skills": "ReactJS, Sass, JavaScript, MongoDB, HTML, CSS",
       "graduate": "Black Belt Web Developer",
       "workHistory": "Ready To Hired",
       "salary": "20000",
@@ -103,7 +104,7 @@
       "name": "GIAS UDDIN",
       "skills": "ReactJS, JavaScript,Sass, JQUERY, MongoDB, HTML, CSS",
       "graduate": "Black Belt Web Developer",
-      "workHistory": "Programing Hero Instractor (Bangladesh)",
+      "workHistory": "Programing Hero Instractor",
       "salary": "30000",
       "email": "nirobh753@gmail.com",
       "img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/237486074_3066869396931612_1250967033262156293_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=dalDFn6nTEkAX-Csyb-&_nc_ht=scontent.fdac7-1.fna&oh=acf2cb626ce05c8f8ee18c0e1569fcfa&oe=6154B179"
@@ -140,7 +141,7 @@
     },
     {
       "id": "115",
-      "name": "Nahia Nowreen Urnisha",
+      "name": "Nowreen Urnisha",
       "skills": "ReactJS, JavaScript, MongoDB, HTML, CSS",
       "graduate": "Black Belt Web Developer",
       "workHistory": "Ready To Hired",

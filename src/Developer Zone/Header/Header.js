@@ -1,10 +1,11 @@
 import React from 'react';
+import './Header.css'
 
 const Header = () => {
     return (
-        <div>
-            <h1>Web Developer Zone</h1>
-            <h2>Hire Developers Mounthly Selery : 50000</h2>
+        <div className="headerStyle">
+            <h1 className=""><span className="welcomeTaxt">Welcome To</span>  <span className="text-info"> Web Developers Zone</span></h1>
+            <h3 className="mt-3">Developers Mounthly Selery Target :  ৳ 50000</h3>
         </div>
     );
 };
