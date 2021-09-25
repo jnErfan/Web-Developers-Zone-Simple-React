@@ -1,0 +1,152 @@
+[
+    {
+      "id": "101",
+      "name": "Abdallah Daiyan",
+      "skills": "ReactJS, JavaScript, MongoDB, HTML, CSS",
+      "graduate": "Black Belt Web Developer",
+      "workHistory": "Tilleli Inc (New Jersey, USA)",
+      "salary": "25000",
+      "email": "daiyanabdullah@gmail.com",
+      "img": "http://www.abdallahdaiyan.xyz/static/media/daiyan.1e20918a.jpg"
+    },
+    {
+      "id": "102",
+      "name": "Abid Hossain",
+      "skills": "ReactJS, JavaScript, Sass, MongoDB, HTML, CSS",
+      "graduate": "Black Belt Web Developer",
+      "workHistory": "EQO Studio(Bangladesh)",
+      "salary": "20000",
+      "email": "hosainabid@gmail.com",
+      "img": "https://abid-hossain.web.app/static/media/abid4.bfe6365c.jpg"
+    },
+    {
+      "id": "103",
+      "name": "Afroza Akter Ruma",
+      "skills": "ReactJS, JavaScript, MongoDB, HTML, CSS",
+      "workHistory": "Ready To Hired",
+      "salary": "15000",
+      "email": "afrozaaktarroma@gmail.com",
+      "img": "https://my-portfolio-55f71.web.app/static/media/ruma.105b54e4.png"
+    },
+    {
+      "id": "104",
+      "name": "AMINA ANIKA",
+      "skills": "ReactJS, JavaScript, MongoDB, HTML, CSS",
+      "graduate": "Black Belt Web Developer",
+      "workHistory": "Ready To Hired",
+      "salary": "16000",
+      "email": "anikaa137@gmail.com",
+      "img": "https://portfolio-7dab2.web.app/static/media/about.c26f24ae.png"
+    },
+    {
+      "id": "105",
+      "name": "Ashab Hussan",
+      "skills": "ReactJS, Suss, JavaScript, MongoDB, HTML, CSS",
+      "graduate": "Black Belt Web Developer",
+      "workHistory": "Ready To Hired",
+      "salary": "19000",
+      "email": "ashabhtanim@gmail.com",
+      "img": "https://ashabhussan.web.app/static/media/ashab.be125a56.jpg"
+    },
+    {
+      "id": "106",
+      "name": "Badhan Chandra Barman",
+      "skills": "ReactJS, JavaScript, MongoDB, HTML, CSS",
+      "graduate": "Black Belt Web Developer",
+      "workHistory": "Ready To Hired",
+      "salary": "16000",
+      "email": "badhancsesastc@gmail.com",
+      "img": "https://badhan-cb.web.app/static/media/profile-full.40e04515.jpg"
+    },
+    {
+      "id": "107",
+      "name": "GAZI SHIFAT REZA",
+      "skills": "ReactJS, Sass, Express.js, JavaScript, MongoDB, HTML, CSS",
+      "graduate": "Black Belt Web Developer",
+      "workHistory": "Ready To Hired",
+      "salary": "20000",
+      "email": "shifatreza44@gmail.com",
+      "img": "https://shifatconst.web.app/static/media/ShifatDP.80b87023.png"
+    },
+    {
+      "id": "108",
+      "name": "IFFATUN NESSA",
+      "skills": "ReactJS, JavaScript, MongoDB, HTML, CSS",
+      "graduate": "Black Belt Web Developer",
+      "workHistory": "Ready To Hired",
+      "salary": "18000",
+      "email": "iffa2111@gmail.com",
+      "img": "https://iffatunnessa-df12f.web.app/static/media/dp.b918a83d.jpg"
+    },
+    {
+      "id": "109",
+      "name": "Israt Jahan Runa",
+      "skills": "ReactJS, JavaScript, MongoDB, HTML, CSS",
+      "graduate": "Black Belt Web Developer",
+      "workHistory": "Ready To Hired",
+      "salary": "16000",
+      "email": "isratjahanruna@gmail.com",
+      "img": "https://jovial-franklin-2f665f.netlify.app/static/media/Israt.9934e50b.jpg"
+    },
+    {
+      "id": "110",
+      "name": "Joyonto Karmokar",
+      "skills": "ReactJS, JavaScript,Sass, JQUERY, MongoDB, HTML, CSS",
+      "graduate": "Black Belt Web Developer",
+      "workHistory": "JS Limited (Bangladesh)",
+      "salary": "26000",
+      "email": "joyonto.karmokar.cse@gmail.com",
+      "img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t1.6435-9/48270742_607366236347408_4317620834714779648_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=174925&_nc_ohc=fq5KwY2iIgYAX8-QBXf&_nc_ht=scontent.fdac7-1.fna&oh=9380eeaa76bb336e964faf958483cbf4&oe=6174EB9B"
+    },
+    {
+      "id": "111",
+      "name": "GIAS UDDIN",
+      "skills": "ReactJS, JavaScript,Sass, JQUERY, MongoDB, HTML, CSS",
+      "graduate": "Black Belt Web Developer",
+      "workHistory": "Programing Hero Instractor (Bangladesh)",
+      "salary": "30000",
+      "email": "nirobh753@gmail.com",
+      "img": "https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/237486074_3066869396931612_1250967033262156293_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=dalDFn6nTEkAX-Csyb-&_nc_ht=scontent.fdac7-1.fna&oh=acf2cb626ce05c8f8ee18c0e1569fcfa&oe=6154B179"
+    },
+    {
+      "id": "112",
+      "name": "SHAHADAT HOSSAIN",
+      "skills": "ReactJS, JavaScript, MongoDB, HTML, CSS",
+      "graduate": "Black Belt Web Developer",
+      "workHistory": "Ready To Hired",
+      "salary": "20000",
+      "email": "mdshahadat68@gmail.com",
+      "img": "https://avatars.githubusercontent.com/u/76891470?v=4"
+    },
+    {
+      "id": "113",
+      "name": "MINHAZUL ALAM",
+      "skills": "ReactJS, JavaScript, MongoDB, HTML, CSS",
+      "graduate": "Black Belt Web Developer",
+      "workHistory": "Ready To Hired",
+      "salary": "18000",
+      "email": "minhazul.dev@gmail.com",
+      "img": "https://avatars.githubusercontent.com/u/76746893?v=4"
+    },
+    {
+      "id": "114",
+      "name": "Mohammad Eusha",
+      "skills": "ReactJS, JavaScript, MongoDB, HTML, CSS",
+      "graduate": "Black Belt Web Developer",
+      "workHistory": "Ready To Hired",
+      "salary": "16000",
+      "email": "eusha37@gmail.com",
+      "img": "https://avatars.githubusercontent.com/u/76753504?v=4"
+    },
+    {
+      "id": "115",
+      "name": "Nahia Nowreen Urnisha",
+      "skills": "ReactJS, JavaScript, MongoDB, HTML, CSS",
+      "graduate": "Black Belt Web Developer",
+      "workHistory": "Ready To Hired",
+      "salary": "19000",
+      "email": "urnisha09@gmail.com",
+      "img": "https://nahia-nowreen-urnisha.netlify.app/static/media/Urnisha_bg2.df15d1c1.jpg"
+    }
+  ]
+  
