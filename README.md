@@ -4,13 +4,13 @@
 
 ## What To Do With This Website
 
-• There Is A Lot Of Web Developer Information Here \
+• There Is A Lot Of Web Developers Information Here \
 • You Can Choose Any Web Developer From This Website And \
 • You Can Give Job By Looking At Salary According To Your Budget.
 
 <br />
 
-### Connect with me:
+### Connect With Me:
 
 <img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -18,7 +18,7 @@
 
 <br />
 
-### Languages and Tools :
+### Languages :
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />

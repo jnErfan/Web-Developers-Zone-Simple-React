@@ -6,7 +6,7 @@ const {developerDetails} = props
 
 // Update Developer Name And Salary In Cart 
     return (
- <div className="card mb-3">
+ <div className="card mb-3 cart-info">
          
         <div className="row g-0">
         <div className="col-md-4">
