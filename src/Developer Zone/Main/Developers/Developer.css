@@ -8,3 +8,6 @@
 .single-product:hover {
   border: 3px solid #31d2f2;
 }
+.email {
+  font-family: "Poppins", sans-serif;
+}

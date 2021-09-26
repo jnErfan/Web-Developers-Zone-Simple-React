@@ -5,8 +5,9 @@ import "./Main.css"
 
 const Main = () => {
 
-    const [developers, setDevelopers] = useState([])
+    const [developers, setDevelopers] = useState([]);
     const [cartUpdate , setCartUpdate] = useState([]);
+    const [cart , setCart] = useState([]);
 
     useEffect(()=>{
         fetch("/data.JSON")
@@ -41,9 +42,10 @@ const Main = () => {
         </div>
 
         <div className="col col-10 col-md-3 col-lg-3">
-                <Cart
-                cartUpdate={cartUpdate}
-                />
+                 
+                     <Cart 
+                    cartUpdate={cartUpdate}
+                     />
         </div>
 
     </div>
