@@ -1,8 +1,7 @@
 .headerStyle {
   text-align: center;
-  font-family: "Bebas Neue", cursive;
-  /* background-color: white; */
-  background-image: url(image/header-bg.jpg);
+  background-color: white;
+  /* background-image: url(image/header-bg.jpg); */
   padding-bottom: 30px;
   padding-top: 20px;
   border-radius: 0px 0px 200px 200px;
