@@ -4,6 +4,7 @@ import "./CartInfo.css"
 const CartInfo= props => {
 const {developerDetails} = props
 
+// Update Developer Name And Salary In Cart 
     return (
  <div className="card mb-3">
          

@@ -1,9 +1,9 @@
 # Web Developer Zone
 
-Web Developer Zone Live Site Link [Live Site](https://web-developer-zone.netlify.app/).
+Web Developer Zone Live Site Link [Click To See Live Site](https://web-developer-zone.netlify.app/).
 
-## Why This Web Site
+## What To Do With This Website
 
-In the project directory, you can run:
-
-### `The Site Make With Hire Web Developers`
+•
+•
+•

@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Web Site Footer 
 const Footer = () => {
     return (
         <div>

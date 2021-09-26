@@ -3,7 +3,9 @@ import "./Developer.css";
 import "./Developer.css";
 
 const Developers = props => {
+    // Destructuring All Dynamic Card Information 
    const {name, skills, graduate, workHistory, salary, email,img} = props.developer;
+   
     return (
 <div>
      

@@ -6,9 +6,11 @@ import "./Cart.css";
 const Cart = props => {
     const {cartUpdate} = props
 
+    // Addition Grand Total With Reduce 
     const totalSalary = (previous,current) => previous + parseInt(current.salary) ;
     const salary =  cartUpdate.reduce(totalSalary,0);
   
+    // All Clear Button Handler 
     const reFreash=()=>{
       window.location.reload()
     }
@@ -26,22 +28,25 @@ const Cart = props => {
             </thead>
             <tbody>
               <tr>
+                {/* Update Total Hired Quantity  */}
                 <th>Total Hired :</th>
                 <td><i className="fas fa-cart-plus"> </i> <span id="total-Products"> {cartUpdate.length}</span></td>
               </tr>
               <tr>
+                {/* Total Developers Salary  */}
                 <th>Total Salary :</th>
                 <td><i className="fas fa-dollar-sign"></i> <span id="price">  {salary}</span></td>
               </tr>
             </tbody>
           </table>
+          {/* Click And Developers Name Cart Update  */}
                      {
                          cartUpdate.map(developerDetails => <CartInfo
                             key={developerDetails.id}
                             developerDetails={developerDetails}
                             />)
                      }
-
+          {/* Click Page Reaload And All Clear */}
           <div className="parces text-center">
           <button onClick={reFreash} className="btn btn-primary text-center">Clear All</button>
           </div>

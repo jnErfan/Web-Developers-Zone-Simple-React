@@ -5,17 +5,18 @@ import "./Main.css"
 
 const Main = () => {
 
+    // UseState Show Developers Card And Cart 
     const [developers, setDevelopers] = useState([]);
     const [cartUpdate , setCartUpdate] = useState([]);
-    const [cart , setCart] = useState([]);
 
+    // Developer Data Load In  /data.Json
     useEffect(()=>{
         fetch("/data.JSON")
         .then(res => res.json())
         .then(data => setDevelopers(data))
     },[])
 
-
+    // Get Hired Button Handler 
     const getHired = developer => {
         const hiredCounts = [...cartUpdate,developer];
         setCartUpdate(hiredCounts);
@@ -29,7 +30,7 @@ const Main = () => {
 
         <div className="col col-9 col-md-9 col-lg-9">
         <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3">
-
+    
         {
             developers.map(developer => <Developers
                 key={developer.id}
